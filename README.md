@@ -18,6 +18,6 @@ Short walkthrough, optionally with more screenshots.
 Brief explanation of the science/logic.
 
 ## Freedom to use
-The research and development of the SSbD Solvent Selection Guide was funded by TransPharm, 
+The research and development of the SSbD Solvent Selection Guide was funded by [TransPharm](https://transforming-pharma.eu/), 
 a EU-Funded project that investigates the transformation towards a sustainable pharmaceutical sector.
 This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101057816. 
