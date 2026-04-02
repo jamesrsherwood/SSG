@@ -19,7 +19,7 @@ The [SSbD SSG](https://jamesrsherwood.github.io/SSG) is a tool for synthetic org
 
 <img src="docs/Slide7.PNG" alt="App Screenshot" width="750">
 
-<img src="docs/Slide8.PNG" alt="App Screenshot" width="750">
+<img src="docs/Slide8.PNG" alt="App Screenshot" width="700">
 
 ## Acknowledgement
 The research and development of the SSbD Solvent Selection Guide was funded by [TransPharm](https://transforming-pharma.eu/), 
